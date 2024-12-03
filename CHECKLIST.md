@@ -31,4 +31,4 @@
 - [ ] Linters
 - [ ] Build
 - [ ] Deploy
-- [x] [New User Greetings](https://github.com/libresource/open-source-checklist#new-user-greetings)
+- [ ] [New User Greetings](https://github.com/libresource/open-source-checklist#new-user-greetings)

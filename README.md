@@ -75,6 +75,7 @@ Just use this repository as GitHub repository template
 - Delete or change [this](README.md) README.md
 - Check all useful files in the project
 - Use [CHECKLIST.md](CHECKLIST.md) to check all of you need for good open source project
+- Edit or delete [FUNDING.yml](.github/FUNDING.yml)
 - Enjoy
 
 ## Examples
@@ -82,6 +83,7 @@ Just use this repository as GitHub repository template
 GitHub's repositories which use this template
 - [Libresource](https://github.com/libresource/.github)
 - [FindSimilar](https://github.com/findsimilar/.github)
+- [LibSecSource](https://github.com/LibSecSource/.github)
 
 ## Contributing
 
